@@ -33,7 +33,7 @@
   },
   "dependencies": {
     "@applitools/visual-grid-client": "^5.3.8",
-    "body-parser": "^1.18.3",
+    "body-parser": "^1.19.0",
     "cors": "^2.8.4",
     "express": "^4.16.4"
   },
